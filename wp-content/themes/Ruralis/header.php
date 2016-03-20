@@ -51,7 +51,7 @@
                 <img src="wp-content/themes/Ruralis/img/logoarbre1.png" id="animation" alt="Logo arbre"/>
                 <!-- Next image is used for first frame, before scroll -->
                 <!--<img src="wp-content/themes/Ruralis/img/logoarbre1.png" />-->
-            <div id="bottommark"></div>
+                <div id="bottommark"></div>
 
                 <ul class="left hide-on-med-and-down">
                     <li><a href="#top">Ruralis</a></li>
@@ -66,11 +66,11 @@
     </div>
     
     <?php
-  $queried_post = get_post(16);
+    $queried_post = get_post(46);
     echo $queried_post->post_content;
-        ?>
-   
-        <img id="logo" src="wp-content/themes/Ruralis/img/logo.png" alt="logo ruralis magazine" />
+    ?>
+
+    <img id="logo" src="wp-content/themes/Ruralis/img/logo.png" alt="logo ruralis magazine" />
 
 </header>
 
