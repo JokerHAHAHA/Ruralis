@@ -9,4 +9,4 @@ CMS (wordpress) one static page to promote the publication of the new magazine R
 
 ##Collabs
 
-@valentin_crasnier, @benjamin_lebas et @jokerhahaha
+@valentin_crasnier, @benjamin_lebas and @jokerhahaha
