@@ -29,8 +29,8 @@
     <div class="ancre" name="top" id="top"></div>
     <div class="navbar-fixed">
         <nav>
-            <a href="http://www.twitter.com" target="_blank"><img class="logotwitter" src="wp-content/themes/Ruralis/img/twitter.png" alt="facebook" /></a>
-            <a href="http://www.facebook.com" target="_blank"><img class="logofb" src="wp-content/themes/Ruralis/img/facebook.png" alt="facebook" /></a>
+            <a href="https://twitter.com/Ruralismagazine" target="_blank"><img class="logotwitter" src="http://www.internationalwildcircus.com/wp-content/themes/Ruralis/img/twitter.png" alt="twitter" /></a>
+            <a href="https://www.facebook.com/Ruralis-Magazine-488687077922669/" target="_blank"><img class="logofb" src="wp-content/themes/Ruralis/img/facebook.png" alt="facebook" /></a>
             <a href="http://www.instagram.com" target="_blank"><img class="logoinsta" src="wp-content/themes/Ruralis/img/instagram.png" alt="instaram" /></a>
             <div class="nav-wrapper z-depth-1">
                 <img class="hidden" src="wp-content/themes/Ruralis/img/logoarbre1.png" alt="Logo arbre"/>

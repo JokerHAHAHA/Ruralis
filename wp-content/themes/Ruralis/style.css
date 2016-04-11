@@ -60,7 +60,7 @@ LES TROIS IMAGE POUR UN CSS OPTIMAL
     height: 720px;
 }
 
-/*imges du territoire*/
+/*imges du Territoire et du Peuple des campagnes*/
 .size-full{ /*prendre TAILLE ORIGINALE pour la changer WORDPRESS*/
     height: auto;
     width: 19.5%;
@@ -152,12 +152,12 @@ header div{
     line-height: 18pt;
     color: #EA640C;
 }
-#territoire{
+#territoire, #peuple{
     margin-top: 170px;
     padding: 0;
     width: 100%;
 }
-#territoire h4{
+#territoire h4, #peuple h4{
 
     padding: 15px 0;
     width: 100%;
