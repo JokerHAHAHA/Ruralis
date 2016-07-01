@@ -14,7 +14,7 @@
         <section id="territoire">
             <h4>TERRITOIRES EN DEVENIR</h4>
             <?php
-            $queried_post = get_post(68);
+            $queried_post = get_post(8);
             echo $queried_post->post_content;
             ?>
         </section>
@@ -71,7 +71,7 @@
                         <section id="peuple">
                             <h4>PEUPLE DES CAMPAGNES</h4>
                             <?php
-                            $queried_post = get_post(101);
+                            $queried_post = get_post(6);
                             echo $queried_post->post_content;
                             ?>
                         </section>
@@ -94,7 +94,7 @@
                                         <div id="nbabonnes">
                                             <p>ACTUELLEMENT</p>
                                             <p><?php
-                                                $queried_post = get_post(66);
+                                                $queried_post = get_post(28);
                                                 echo $queried_post->post_content;
                                                 ?></p>
                                                 <p>abonné(e)s</p>
@@ -166,7 +166,7 @@
                 <footer>
                     <a href="http://www.wildcodeschool.fr" target="_blank"><img id="logowcs" src="wp-content/themes/Ruralis/img/logowcs.png" alt="logo de la Wild Code School" /></a>
                     <?php
-                    $queried_post = get_post(73);
+                    $queried_post = get_post(4);
                     echo $queried_post->post_content;
                     ?>
                 </footer>

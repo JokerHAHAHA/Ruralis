@@ -66,7 +66,7 @@
     </div>
     
     <?php
-    $queried_post = get_post(46);
+    $queried_post = get_post(10);
     echo $queried_post->post_content;
     ?>
 
